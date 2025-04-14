@@ -9,7 +9,7 @@ This project is an exploratory dive into the New York City Airbnb listings datas
 1. To sharpen my skills in real-world data cleaning and distribution analysis
 2. To explore patterns in Airbnb listings across NYC’s boroughs
 3. To practice outlier handling and understand guest-host dynamics
-4. Scholarships and students relations
+4. To understand Scholarships and students relations
 
 🛠️ What I Did:
 
